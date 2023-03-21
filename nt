@@ -1,0 +1,904 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://renodadsblog.com/xmlrpc.php">
+
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Oswald:r:latin,latin-ext","Exo+2:r,i,b,bi:latin,latin-ext"]},"api_url":"https:\/\/fonts-api.wp.com\/css"};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://renodadsblog.com/wp-content/mu-plugins/wpcomsh/vendor/automattic/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active body{font-family:"Exo 2",sans-serif}.wf-active blockquote{font-family:"Exo 2",sans-serif}.wf-active blockquote cite{font-family:"Exo 2",sans-serif}.wf-active code, .wf-active kbd, .wf-active pre, .wf-active tt, .wf-active var{font-family:"Exo 2",sans-serif}.wf-active pre{font-family:"Exo 2",sans-serif}.wf-active .menu-toggle{font-family:"Exo 2",sans-serif}.wf-active .is-singular .post-navigation .nav-links a{font-family:"Exo 2",sans-serif}.wf-active .comments-title .add-comment-link{font-family:"Exo 2",sans-serif}.wf-active .comment-navigation a{font-family:"Exo 2",sans-serif}.wf-active .widget-title{font-family:"Exo 2",sans-serif}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Oswald",sans-serif;font-weight:400;font-style:normal}.wf-active h1{font-weight:400;font-style:normal}.wf-active h2{font-style:normal;font-weight:400}.wf-active h3{font-style:normal;font-weight:400}.wf-active h4{font-style:normal;font-weight:400}.wf-active h5{font-family:"Oswald",sans-serif;font-style:normal;font-weight:400}.wf-active h6{font-family:"Oswald",sans-serif;font-style:normal;font-weight:400}.wf-active .site-title{font-style:normal;font-weight:400}.wf-active .site-banner h1{font-style:normal;font-weight:400}.wf-active .comment-body h1, .wf-active .entry-content h1{font-style:normal;font-weight:400}.wf-active .page-title h1{font-style:normal;font-weight:400}.wf-active .posts .entry-title{font-weight:400;font-style:normal}.wf-active .comments-title{font-style:normal;font-weight:400}.wf-active .widget h1, .wf-active .widget h2, .wf-active .widget h3, .wf-active .widget h4, .wf-active .widget h5, .wf-active .widget h6{font-family:"Oswald",sans-serif;font-style:normal;font-weight:400}.wf-active .is-singular.archive-eventbrite .entry-header h1{font-style:normal;font-weight:400}@media screen and (min-width: 1601px){.wf-active .site-banner h1{font-style:normal;font-weight:400}}@media screen and (max-width: 1400px){.wf-active .site-banner h1{font-style:normal;font-weight:400}}@media screen and (max-width: 1200px){.wf-active .site-banner h1{font-style:normal;font-weight:400}}@media screen and (max-width: 680px){.wf-active .site-banner h1{font-style:normal;font-weight:400}}@media screen and (max-width: 1200px){.wf-active .is-singular .entry-header h1, .wf-active .error404 .entry-header h1, .wf-active .page-header h1, .wf-active .page-template-eventbrite-index .page-header h1, .wf-active .single-event .entry-header h1{font-style:normal;font-weight:400}}@media screen and (max-width: 1200px){.wf-active .is-singular.archive-eventbrite .entry-header h1{font-style:normal;font-weight:400}}@media screen and (max-width: 960px){.wf-active .is-singular:not(.eventbrite-archive) .entry-header h1, .wf-active .error404 .entry-header h1, .wf-active .page-header h1{font-style:normal;font-weight:400}}@media screen and (max-width: 680px){.wf-active .is-singular:not(.eventbrite-archive) .entry-header h1, .wf-active .error404 .entry-header h1, .wf-active .page-header h1, .wf-active .page-template-eventbrite-index .page-header h1, .wf-active .single-event .entry-header h1{font-style:normal;font-weight:400}}@media screen and (max-width: 680px){.wf-active .is-singular.archive-eventbrite .entry-header h1{font-style:normal;font-weight:400}}</style>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Reno Dads - Being a dad in the Biggest Little City</title>
+	<meta name="description" content="Being a dad in the Biggest Little City" />
+	<link rel="canonical" href="https://renodadsblog.com/" />
+	<link rel="next" href="https://renodadsblog.com/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Reno Dads" />
+	<meta property="og:description" content="Being a dad in the Biggest Little City" />
+	<meta property="og:url" content="https://renodadsblog.com/" />
+	<meta property="og:site_name" content="Reno Dads" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@renodads" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://renodadsblog.com/","url":"https://renodadsblog.com/","name":"Reno Dads - Being a dad in the Biggest Little City","isPartOf":{"@id":"https://renodadsblog.com/#website"},"about":{"@id":"https://renodadsblog.com/#organization"},"description":"Being a dad in the Biggest Little City","breadcrumb":{"@id":"https://renodadsblog.com/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://renodadsblog.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://renodadsblog.com/#website","url":"https://renodadsblog.com/","name":"Reno Dads","description":"Being a dad in the Biggest Little City","publisher":{"@id":"https://renodadsblog.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://renodadsblog.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://renodadsblog.com/#organization","name":"Reno Dads","url":"https://renodadsblog.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://renodadsblog.com/#/schema/logo/image/","url":"https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/01/reno-dads-blog-logo-ram.png?fit=9864%2C2548&ssl=1","contentUrl":"https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/01/reno-dads-blog-logo-ram.png?fit=9864%2C2548&ssl=1","width":"9864","height":"2548","caption":"Reno Dads"},"image":{"@id":"https://renodadsblog.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/renodadsblog/","https://twitter.com/renodads","https://www.instagram.com/renodads/","https://www.linkedin.com/company-beta/18081672/","https://www.youtube.com/channel/UCtAhbuovxlW14Km9VTNXEPw"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/renodadsblog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='formidable-css' href='https://renodadsblog.com/wp-content/plugins/formidable/css/formidableforms.css?ver=714802' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpcom-text-widget-styles-css' href='https://renodadsblog.com/wp-content/mu-plugins/wpcomsh/vendor/automattic/text-media-widget-styles/css/widget-text.css?ver=20170607' type='text/css' media='all' />
+<link rel='stylesheet' id='crp-style-rounded-thumbs-css' href='https://renodadsblog.com/wp-content/plugins/contextual-related-posts/css/rounded-thumbs.min.css?ver=3.3.1' type='text/css' media='all' />
+<style id='crp-style-rounded-thumbs-inline-css' type='text/css'>
+
+			.crp_related.crp-rounded-thumbs a {
+			  width: 300px;
+			  height: 200px;
+			  text-decoration: none;
+			}
+			.crp_related.crp-rounded-thumbs img {
+			  max-width: 300px;
+			  margin: auto;
+			}
+			.crp_related.crp-rounded-thumbs .crp_title {
+			  width: 100%;
+			}
+			
+</style>
+<link rel='stylesheet' id='genericons-css' href='https://renodadsblog.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dyad-fonts-css' href='https://fonts-api.wp.com/css?family=Lato%3A400%2C400italic%2C700%2C700italic%7CNoto+Serif%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='dyad-style-css' href='https://renodadsblog.com/wp-content/themes/dyad/style.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dyad-wpcom-css' href='https://renodadsblog.com/wp-content/themes/dyad/inc/style-wpcom.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-top-bar-css' href='https://renodadsblog.com/wp-content/plugins/mailchimp-top-bar/assets/css/bar.css?ver=1.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://renodadsblog.com/wp-content/plugins/jetpack/css/jetpack.css?ver=12.0-a.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='jetpack-block-contact-form-js-extra'>
+/* <![CDATA[ */
+var Jetpack_Block_Assets_Base_Url = {"url":"https:\/\/renodadsblog.com\/wp-content\/plugins\/jetpack\/_inc\/blocks\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/plugins/jetpack/_inc/blocks/contact-form/view.js?minify=false&#038;ver=12.0-a.5' id='jetpack-block-contact-form-js'></script>
+<script type='text/javascript' id='media-video-jwt-bridge-js-extra'>
+/* <![CDATA[ */
+var videopressAjax = {"ajaxUrl":"https:\/\/renodadsblog.com\/wp-admin\/admin-ajax.php","bridgeUrl":"https:\/\/renodadsblog.com\/wp-content\/plugins\/jetpack\/jetpack_vendor\/automattic\/jetpack-videopress\/src\/..\/build\/lib\/token-bridge.js","post_id":"8347"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-videopress/src/../build/lib/token-bridge.js?ver=0.12.1' id='media-video-jwt-bridge-js'></script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/plugins/jetpack/_inc/build/tiled-gallery/tiled-gallery/tiled-gallery.min.js?ver=12.0-a.5' id='tiled-gallery-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://renodadsblog.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://renodadsblog.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://renodadsblog.com/wp-includes/wlwmanifest.xml" />
+
+<link rel='shortlink' href='https://wp.me/7HlvZ' />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script type="text/javascript">document.documentElement.className += " js";</script>
+	<style>img#wpstats{display:none}</style>
+				<style type="text/css">
+					.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+				</style>
+		<!-- There is no amphtml version available for this URL. --><style type="text/css" id="custom-colors-css">blockquote,blockquote cite,.comments-area-wrapper blockquote,.comments-area-wrapper blockquote cite{color:inherit}.site-header,.is-scrolled .site-header,.home .site-header,.blog .site-header{background:transparent;text-shadow:none}#page .site-header:before{bottom:0;content:"";display:block;left:0;opacity:.8;position:absolute;right:0;top:0;z-index:0}#site-navigation ul ul a{color:#fff}.banner-featured{text-shadow:none}.posts .entry-inner:before{opacity:.3}.posts .hentry:not(.has-post-thumbnail) .entry-inner:after{border-color:#ddd}.posts .hentry:not(.has-post-thumbnail):before{border-color:#e1e1e1}.posts .hentry .link-more a{opacity:1;-webkit-transition:opacity .3s;transition:opacity .3s}.posts .hentry:hover .link-more a{opacity:.75}.posts .edit-link a{color:#ccc}.posts .edit-link a:hover{color:#aaa}.widget thead tr,.widget tr:hover{background-color:rgba(0,0,0,0.1)}@media only screen and (max-width:1200px){.site-header:before,.is-scrolled .site-header:before{opacity:1}.has-post-thumbnail .entry-header .entry-meta .cat-links{background-color:transparent}.has-post-thumbnail.is-singular:not(.home) .entry-header .cat-links a,.has-post-thumbnail.is-singular:not(.home) .entry-header .cat-links{color:#6a6c6e !important}}@media only screen and (max-width:960px){#site-navigation ul a,#site-navigation ul ul a{color:inherit}.site-header #site-navigation ul ul li{background-color:transparent}}.site-header:before,.is-singular .entry-media-thumb,#commentform input[type="submit"],#infinite-handle,.posts-navigation,.site-footer{background-color:#c7e7f9}.bypostauthor .comment-author:before{color:#c7e7f9}#site-navigation ul ul li{background-color:#379bd1}#site-navigation ul ul:before{border-bottom-color:#379bd1}#site-navigation ul ul ul:before{border-right-color:#379bd1}.posts .entry-inner:before{color:#2376a3}.posts,.posts .entry-media,.comments-area-wrapper,.milestone-widget .milestone-header,.footer-bottom-info{background-color:#b0ddf6}.milestone-widget .milestone-countdown{border-color:#b0ddf6}.milestone-widget .milestone-countdown,.milestone-widget .milestone-message{color:#79c0e6}.site-header #site-navigation ul li{border-color:#99d3f4}.comment-author.vcard cite{color:#18577b}.bypostauthor .comment-author:before{background-color:#18577b}.comment-meta,.comment .reply:before,.comment .reply a{color:#21739f}.comment-meta{border-bottom-color:#4ca9db}#infinite-handle span button,#infinite-handle span button:hover,#infinite-handle span button:focus,.posts-navigation a,.widget,.site-footer{color:#5e5e5e}.comments-area-wrapper{color:#5e5e5e}.widget_search ::-webkit-input-placeholder{color:#7f7f7f}.widget_search :-moz-placeholder{color:#7f7f7f}.widget_search ::-moz-placeholder{color:#7f7f7f}.widget_search :-ms-input-placeholder{color:#7f7f7f}.site-header,#site-navigation a,.menu-toggle,.comments-title .add-comment-link,.comments-title,.comments-title a,.comments-area-wrapper,.comments-area-wrapper h1,.comments-area-wrapper h2,.comments-area-wrapper h3,.comments-area-wrapper h4,.comments-area-wrapper h5,.comments-area-wrapper h6,.comment-body pre,.comment-footer .author.vcard,.comment-footer,#commentform input[type="submit"],.widget h1,.widget h2,.widget h3,.widget h4,.widget h5,.widget h6,.widget a,.widget button,.widget .button,.widget_search input,.widget input[type="submit"],.widget-area select,.widget_flickr #flickr_badge_uber_wrapper a:hover,.widget_flickr #flickr_badge_uber_wrapper a:link,.widget_flickr #flickr_badge_uber_wrapper a:active,.widget_flickr #flickr_badge_uber_wrapper a:visited,.widget_goodreads div[class^="gr_custom_each_container"],.milestone-header{color:#232323}.widget ul li,.widget_jp_blogs_i_follow ol li{border-top-color:#fff}.comment-footer,.widget ul li,.widget_jp_blogs_i_follow ol li{border-bottom-color:#fff}.comments-title,.comments-area-wrapper blockquote,#commentform input[type="text"],#commentform input[type="email"],#commentform input[type="url"],#commentform textarea,.widget .tagcloud a,.widget.widget_tag_cloud a,.wp_widget_tag_cloud a,.widget button,.widget .button,.widget input[type="submit"],.widget table,.widget th,.widget td,.widget input,.widget select,.widget textarea{border-color:#fff}.site-banner-header .banner-featured{color:#333}.error404-widgets .widget a{color:#6d6d6d}.error404 .entry-content .widget ul li{color:#939393}.site-banner-header .banner-featured,.banner-custom-header .site-banner-header h1:before,.has-post-thumbnail .entry-meta .cat-links{background-color:#00b4cc}button,.button,input[type="submit"]{background-color:#00b4cc}button,.button,input[type="submit"]{border-color:#00b4cc}.error404 .entry-content .widget ul li{border-color:#00b4cc}pre:before,.link-more a,.posts .hentry:hover .link-more a,.is-singular .entry-inner:after,.error404 .entry-inner:after,.page-template-eventbrite-index .page-header:after,.single-event .entry-header:after,.is-singular .post-navigation .nav-links:after{background-color:#07a9be}.has-post-thumbnail.is-singular:not(.home) .entry-header .cat-links a{color:#005a66}</style>
+<style type="text/css">
+.mctb-bar, .mctb-response, .mctb-close { background: #b2ea79 !important; }
+.mctb-bar, .mctb-label, .mctb-close { color: #222222 !important; }
+.mctb-button { background: #1dc0d6 !important; border-color: #1dc0d6 !important; }
+.mctb-email:focus { outline-color: #1dc0d6 !important; }
+.mctb-button { color: #ffffff !important; }
+</style><link rel="icon" href="https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/11/cropped-reno-dads-blog-logo-ram.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/11/cropped-reno-dads-blog-logo-ram.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/11/cropped-reno-dads-blog-logo-ram.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/11/cropped-reno-dads-blog-logo-ram.png?fit=270%2C270&#038;ssl=1" />
+<!-- Jetpack Google Analytics -->
+			<script type='text/javascript'>
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-104705825-1']);
+_gaq.push(['_trackPageview']);
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+			<!-- End Jetpack Google Analytics -->
+</head>
+
+<body class="home blog wp-custom-logo group-blog has-post-thumbnail no-js custom-colors has-site-logo">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+			<a href="https://renodadsblog.com/" class="site-logo-link" rel="home" itemprop="url"><img width="600" height="155" src="https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/01/reno-dads-blog-logo-ram.png?fit=600%2C155&amp;ssl=1" class="site-logo attachment-dyad-site-logo" alt="" decoding="async" loading="lazy" data-size="dyad-site-logo" itemprop="logo" data-attachment-id="71" data-permalink="https://renodadsblog.com/reno-dads-blog-logo-ram/" data-orig-file="https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/01/reno-dads-blog-logo-ram.png?fit=9864%2C2548&amp;ssl=1" data-orig-size="9864,2548" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="reno-dads-blog-logo-ram" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/01/reno-dads-blog-logo-ram.png?fit=300%2C77&amp;ssl=1" data-large-file="https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/01/reno-dads-blog-logo-ram.png?fit=1000%2C258&amp;ssl=1" /></a>			<h1 class="site-title">
+				<a href="https://renodadsblog.com/" rel="home">
+					Reno Dads				</a>
+			</h1>
+			<p class="site-description">Being a dad in the Biggest Little City</p>
+		</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+			<div class="primary-menu"><ul id="primary-menu" class="menu"><li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-12"><a href="/" aria-current="page">Home</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="#">Categories</a>
+<ul class="sub-menu">
+	<li id="menu-item-216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216"><a href="https://renodadsblog.com/category/being-a-dad/">Being a Dad</a></li>
+	<li id="menu-item-2550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2550"><a href="https://renodadsblog.com/category/tales-of-fatherhood/">Tales of Fatherhood</a></li>
+	<li id="menu-item-5786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5786"><a href="https://renodadsblog.com/category/dad-spotlight/">Dad Spotlight</a></li>
+	<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="https://renodadsblog.com/category/reviews/">Reviews</a></li>
+	<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53"><a href="https://renodadsblog.com/category/stuff-to-do/">Stuff to Do</a></li>
+	<li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="https://renodadsblog.com/category/relationships/">Relationships</a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57"><a href="https://renodadsblog.com/category/guy-stuff/">Guy Stuff</a></li>
+	<li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58"><a href="https://renodadsblog.com/category/kid-stuff/">Kid Stuff</a></li>
+	<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52"><a href="https://renodadsblog.com/category/healthy-body-and-mind/">Healthy Body and Mind</a></li>
+</ul>
+</li>
+<li id="menu-item-4162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4162"><a href="https://renodadsblog.com/category/podcast/">Podcast</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13"><a href="https://renodadsblog.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://renodadsblog.com/meet-the-reno-dads-team/">Meet the Reno Dads Team</a></li>
+	<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-383"><a href="https://renodadsblog.com/2017/02/06/dedication-to-our-dads/">Dedication to Our Dads</a></li>
+</ul>
+</li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://renodadsblog.com/contact/">Contact</a></li>
+</ul></div>		</nav>
+
+	</header><!-- #masthead -->
+
+	<div class="site-inner">
+
+					<div class="featured-content">
+				
+
+<div id="site-banner" class="site-banner no-slider">
+
+	<div class="site-banner-inner">
+
+		
+
+<article data-id="post-46" class="post-46 post type-post status-publish format-standard has-post-thumbnail hentry category-being-a-dad tag-featured">
+
+	
+	<div class="site-banner-media">
+		
+		<div class="site-banner-thumbnail" title="We are Reno Dads" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2017/02/reno-winter.jpeg?resize=1400%2C560&#038;ssl=1);"></div>
+	</div><!-- .site-banner-media -->
+
+	
+	<div class="site-banner-header">
+		<span class="banner-featured">Featured</span>
+		<h1 class="entry-title">
+			<a href="https://renodadsblog.com/2017/02/03/welcome-to-reno-dads-blog/" rel="bookmark">
+				We are Reno Dads			</a>
+		</h1>
+		<p>We are so excited for you to join our Reno Dads community! This is a collaborative blog, with content created by local dads for local dads. We aren&#8217;t here to preach about how to be a parent. But, we do want to impact the conversation on the role of fatherhood. You will see that overall we&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2017/02/03/welcome-to-reno-dads-blog/">Read More</a></div>
+	</div><!-- .site-banner-header -->
+</article>
+	</div><!-- .site-banner-inner -->
+
+</div><!-- #site-banner -->
+
+
+			</div>
+		
+		<div id="content" class="site-content">
+
+	<main id="primary" class="content-area" role="main">
+
+		
+			<div id="posts" class="posts">
+
+								
+					
+
+<article id="post-8347" class="post-8347 post type-post status-publish format-standard has-post-thumbnail hentry category-activities-for-your-kids category-kid-sports category-kid-stuff category-stuff-to-do tag-baseball tag-softball tag-travel-ball tag-youth-sports">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2019/01/xx-baseballs.jpg?resize=612%2C612&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/12/14/reno-dads-guide-to-youth-baseball-and-softball-in-reno-2/" rel="bookmark">Reno Dads Guide to Youth Baseball and Softball in Reno &#8211; 2023</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Youth Baseball and Softball in Reno [Updated for 2023] It’s that time of year again when registration for spring youth sports are opening up and parents all over Reno are clearing their calendars for baseball, softball, soccer, and every other sport hosting spring leagues. With so many options, we wanted to compile a list of&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/12/14/reno-dads-guide-to-youth-baseball-and-softball-in-reno-2/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/12/14/reno-dads-guide-to-youth-baseball-and-softball-in-reno-2/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-8300" class="post-8300 post type-post status-publish format-standard has-post-thumbnail hentry category-community category-stuff-to-do">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2019/12/lights.png?resize=630%2C653&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/11/27/2022-map-of-christmas-lights-in-reno-sparks/" rel="bookmark">2022 Map of Christmas Lights in Reno/Sparks</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>If you&#8217;re looking for the biggest and best map of Christmas lights and decorations in the Reno/Sparks area, you&#8217;ve come to the right place. We celebrate the dads that go above and beyond to bring Christmas cheer to our community. We&#8217;re still accepting addresses/houses for our master list. If you decorated your house this year&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/11/27/2022-map-of-christmas-lights-in-reno-sparks/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/11/27/2022-map-of-christmas-lights-in-reno-sparks/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-8282" class="post-8282 post type-post status-publish format-standard has-post-thumbnail hentry category-development category-education category-mental-health category-podcast category-relationships tag-podcast">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2022/11/6F6085D4-C523-4E77-9C68-09C9DE8BD3B2.png?resize=630%2C840&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/11/27/reno-dads-podcast-episode-30-my-family-connection/" rel="bookmark">Reno Dads Podcast Episode 30: My Family Connection</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Reno Dads invited Family Coach and Advocate, Charitie Carpenter, into the studio to talk about her approach to helping families navigate some of the trickiest parts of being parents. Her company, My Family Connection, is a resource for families to find help with everything from solving co-parenting issues, to managing Individual Education Plans (IEPs) for&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/11/27/reno-dads-podcast-episode-30-my-family-connection/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/11/27/reno-dads-podcast-episode-30-my-family-connection/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-8219" class="post-8219 post type-post status-publish format-standard has-post-thumbnail hentry category-being-a-dad category-healthy-body-and-mind category-mental-health category-people-you-should-know category-podcast category-relationships category-sponsored tag-podcast">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2022/10/93277979_117881073209441_2519223414045016064_n.jpeg?resize=630%2C461&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/10/18/reno-dads-podcast-episode-29-hope-means-nevada/" rel="bookmark">Reno Dads Podcast Episode 29: Hope Means Nevada</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>As Suicide Awareness and Prevention Month came to a close at the end of September, Reno Dads hosted a conversation with some Nevadans who are raising awareness about teen and youth suicide and working with local resources to help teens and their loved ones find information and learn how to talk to each other about&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/10/18/reno-dads-podcast-episode-29-hope-means-nevada/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/10/18/reno-dads-podcast-episode-29-hope-means-nevada/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-8121" class="post-8121 post type-post status-publish format-standard has-post-thumbnail hentry category-being-a-dad category-healthy-body-and-mind category-people-you-should-know category-podcast category-sponsored tag-podcast">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2022/07/Chiropractor-Sparks-NV-Rick-Swecker-and-Team-Members-Responsive-Slider.jpg?resize=630%2C500&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/07/08/reno-dads-podcast-episode-28-healthy-dads-healthy-families/" rel="bookmark">Reno Dads Podcast Episode 28: Healthy Dads, Healthy Families</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>We were excited to host a few awesome local dads for our latest episode. Rick and Brandon, from Family First Chiropractic, stopped by to talk about an important topic that they have dedicated their practice to helping dads (and families) with: their health. We hope you&#8217;ll take a few minutes to have a listen! Rick&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/07/08/reno-dads-podcast-episode-28-healthy-dads-healthy-families/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/07/08/reno-dads-podcast-episode-28-healthy-dads-healthy-families/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-8104" class="post-8104 post type-post status-publish format-standard has-post-thumbnail hentry category-activities-for-your-kids category-local-activities category-stuff-to-do">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2019/09/Carson.jpg?resize=600%2C800&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/06/20/reno-dads-summer-guide/" rel="bookmark">Reno Dads Summer Guide</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>It&#8217;s summer time again, and if you&#8217;re like most parents, you&#8217;re looking for something to do as a family. Below is a quick listing that will give you a jump start on your plans (more detail behind the clicks below). Geocaching Hiking Reno/Sparks/Carson Hillside Letters Break Away from Screens Hiking Mount Rose Hiking Safety Tips&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/06/20/reno-dads-summer-guide/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/06/20/reno-dads-summer-guide/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-8080" class="post-8080 post type-post status-publish format-standard has-post-thumbnail hentry category-stuff-to-do">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2022/06/hair.jpg?resize=630%2C840&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/06/06/father-daughter-hairstyling-classes/" rel="bookmark">Father/Daughter Hairstyling Classes</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Looking for more information on the Reno Dads Father/Daughter Hairstyling Classes? You&#8217;ve come to the right place. Here &#8211; let us get you to the event page: VIEW MORE INFO/REGISTER</p>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/06/06/father-daughter-hairstyling-classes/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-8040" class="post-8040 post type-post status-publish format-standard has-post-thumbnail hentry category-being-a-dad">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2022/05/Danny-Gleich.jpg?resize=630%2C840&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/05/25/challenging-journey/" rel="bookmark">The Long Journey to Baby Charlotte</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>To many couples, when their baby reaches that 6 month mark it is small celebration for making it half way through their first year of life as a family.&nbsp; For my wife, Morgan, and I, it was likely more of a sigh of relief before the celebrating.&nbsp; To say we had a trying time starting&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/05/25/challenging-journey/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/05/25/challenging-journey/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-7969" class="post-7969 post type-post status-publish format-standard has-post-thumbnail hentry category-being-a-dad category-healthy-body-and-mind category-kid-stuff tag-health">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2022/04/heart-stethescope.jpg?resize=610%2C407&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/04/04/how-first-time-dads-maximize-their-childs-health/" rel="bookmark">How first-time dads maximize their child&#8217;s health</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Just about the first piece of wisdom that every first-time dad hears from someone — a friend, a co-worker, an older relative — is that newborns don’t come with instruction manuals. It’s true. As much as we’d all love babies to come with a link to a PDF instruction manual in multiplelanguages, dads can follow&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/04/04/how-first-time-dads-maximize-their-childs-health/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/04/04/how-first-time-dads-maximize-their-childs-health/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-7946" class="post-7946 post type-post status-publish format-standard has-post-thumbnail hentry category-being-a-dad category-kid-stuff">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2022/03/teen-gambling.jpg?resize=630%2C840&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/03/25/your-kid-and-gambling-what-to-know-and-teach-them-about-risk-taking/" rel="bookmark">Your Kid and Gambling: What to Know and Teach Them about Risk-Taking</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>You might have experienced your heart jumping into your throat as you witnessed your kid jump from the coffee table to the couch in an Evel Knievel-style stunt – exciting and risky activities can be very appealing to kids.&nbsp; Because kids don’t always understand or fully acknowledge the impact of their decisions and actions, risk-taking&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/03/25/your-kid-and-gambling-what-to-know-and-teach-them-about-risk-taking/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/03/25/your-kid-and-gambling-what-to-know-and-teach-them-about-risk-taking/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-7850" class="post-7850 post type-post status-publish format-standard has-post-thumbnail hentry category-activities-for-your-kids category-kid-sports category-kid-stuff category-stuff-to-do tag-baseball tag-youth-sports">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2019/01/xx-baseballs.jpg?resize=612%2C612&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2022/01/28/reno-dads-guide-to-youth-baseball-and-softball-in-reno/" rel="bookmark">Reno Dads Guide to Youth Baseball and Softball in Reno</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>Youth Baseball and Softball in Reno [Updated for 2022]It’s that time of year again when registration for spring youth sports are opening up and parents all over Reno are clearing their calendars for baseball, softball, soccer, and every other sport hosting spring leagues. With so many options, we wanted to compile a list of community&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2022/01/28/reno-dads-guide-to-youth-baseball-and-softball-in-reno/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2022/01/28/reno-dads-guide-to-youth-baseball-and-softball-in-reno/"></a>
+	</article><!-- #post-## -->
+
+				
+					
+
+<article id="post-7857" class="post-7857 post type-post status-publish format-standard has-post-thumbnail hentry category-community category-stuff-to-do">
+
+		<div class="entry-media" style="background-image: url(https://i0.wp.com/renodadsblog.com/wp-content/uploads/2019/11/Griswold-Award-2-small.jpg?resize=630%2C840&#038;ssl=1)">
+	</div>
+
+	<div class="entry-inner">
+		<div class="entry-inner-content">
+			<header class="entry-header">
+				<h2 class="entry-title"><a href="https://renodadsblog.com/2021/12/24/2021-griswold-award-christmas-lights-reno/" rel="bookmark">2021 Reno Dads Griswold Award Winners</a></h2>			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<p>I&#8217;m consistently proud of the displays of Christmas cheer we see in the Reno/Sparks area. Speaking of consistency &#8211; there are about a dozen homes that really go above and beyond with their Christmas lights displays each year. Interestingly, many of our past Griswold Award winners deserve to get top honors once again. Therefore, we&#8217;d&#8230; </p>
+<div class="link-more"><a href="https://renodadsblog.com/2021/12/24/2021-griswold-award-christmas-lights-reno/">Read More</a></div>
+			</div><!-- .entry-content -->
+		</div><!-- .entry-inner-content -->
+	</div><!-- .entry-inner -->
+
+	<a class="cover-link" href="https://renodadsblog.com/2021/12/24/2021-griswold-award-christmas-lights-reno/"></a>
+	</article><!-- #post-## -->
+
+				
+			</div><!-- .posts -->
+
+			
+	<nav class="navigation posts-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://renodadsblog.com/page/2/" >Older posts</a></div></div>
+	</nav>
+		
+	</main><!-- #main -->
+
+
+		</div><!-- #content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			
+				<div class="widget-area widgets-four" role="complementary">
+					<div class="grid-container">
+						<aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></aside>
+		<aside id="recent-posts-1" class="widget widget_recent_entries">
+		<h3 class="widget-title">Recent Posts</h3>
+		<ul>
+											<li>
+					<a href="https://renodadsblog.com/2022/12/14/reno-dads-guide-to-youth-baseball-and-softball-in-reno-2/">Reno Dads Guide to Youth Baseball and Softball in Reno &#8211; 2023</a>
+											<span class="post-date">December 14, 2022</span>
+									</li>
+											<li>
+					<a href="https://renodadsblog.com/2022/11/27/2022-map-of-christmas-lights-in-reno-sparks/">2022 Map of Christmas Lights in Reno/Sparks</a>
+											<span class="post-date">November 27, 2022</span>
+									</li>
+											<li>
+					<a href="https://renodadsblog.com/2022/11/27/reno-dads-podcast-episode-30-my-family-connection/">Reno Dads Podcast Episode 30: My Family Connection</a>
+											<span class="post-date">November 27, 2022</span>
+									</li>
+											<li>
+					<a href="https://renodadsblog.com/2022/10/18/reno-dads-podcast-episode-29-hope-means-nevada/">Reno Dads Podcast Episode 29: Hope Means Nevada</a>
+											<span class="post-date">October 18, 2022</span>
+									</li>
+											<li>
+					<a href="https://renodadsblog.com/2022/07/08/reno-dads-podcast-episode-28-healthy-dads-healthy-families/">Reno Dads Podcast Episode 28: Healthy Dads, Healthy Families</a>
+											<span class="post-date">July 8, 2022</span>
+									</li>
+											<li>
+					<a href="https://renodadsblog.com/2022/06/20/reno-dads-summer-guide/">Reno Dads Summer Guide</a>
+											<span class="post-date">June 20, 2022</span>
+									</li>
+					</ul>
+
+		</aside><aside id="text-1" class="widget widget_text"><h3 class="widget-title">About Reno Dads Blog</h3>			<div class="textwidget">Our mission is to foster the community of fathers in the Reno and northern Nevada area. We promise to bring you information, entertainment and levity about the journey of fatherhood. We're not here to preach about how you should parent, but rather give you the resources to choose your style. What's more, we want to provide the tools for becoming a better man and therefore a better father to your children. </div>
+		</aside><aside id="search-1" class="widget widget_search"><h3 class="widget-title">Search the Site</h3><form role="search" method="get" class="search-form" action="https://renodadsblog.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Categories</h3><form action="https://renodadsblog.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform'>
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="65005">Being a Dad&nbsp;&nbsp;(157)</option>
+	<option class="level-1" value="12824650">&nbsp;&nbsp;&nbsp;Dad Skills&nbsp;&nbsp;(25)</option>
+	<option class="level-0" value="585361523">Community&nbsp;&nbsp;(29)</option>
+	<option class="level-0" value="585361527">Dad Spotlight&nbsp;&nbsp;(23)</option>
+	<option class="level-0" value="317835">Guy Stuff&nbsp;&nbsp;(49)</option>
+	<option class="level-1" value="16332">&nbsp;&nbsp;&nbsp;Alcohol&nbsp;&nbsp;(7)</option>
+	<option class="level-1" value="586">&nbsp;&nbsp;&nbsp;Food&nbsp;&nbsp;(8)</option>
+	<option class="level-1" value="21">&nbsp;&nbsp;&nbsp;Games&nbsp;&nbsp;(6)</option>
+	<option class="level-1" value="585361495">&nbsp;&nbsp;&nbsp;Modern Man&nbsp;&nbsp;(8)</option>
+	<option class="level-1" value="10260">&nbsp;&nbsp;&nbsp;Movies &amp; TV&nbsp;&nbsp;(4)</option>
+	<option class="level-1" value="585361528">&nbsp;&nbsp;&nbsp;Projects&nbsp;&nbsp;(4)</option>
+	<option class="level-1" value="3737">&nbsp;&nbsp;&nbsp;Style&nbsp;&nbsp;(4)</option>
+	<option class="level-1" value="318">&nbsp;&nbsp;&nbsp;Tech&nbsp;&nbsp;(1)</option>
+	<option class="level-1" value="598">&nbsp;&nbsp;&nbsp;Women&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="16309615">Healthy Body and Mind&nbsp;&nbsp;(74)</option>
+	<option class="level-1" value="1098">&nbsp;&nbsp;&nbsp;Culture&nbsp;&nbsp;(6)</option>
+	<option class="level-1" value="4125">&nbsp;&nbsp;&nbsp;Exercise&nbsp;&nbsp;(16)</option>
+	<option class="level-1" value="5004">&nbsp;&nbsp;&nbsp;Mental Health&nbsp;&nbsp;(29)</option>
+	<option class="level-0" value="50294">Kid Stuff&nbsp;&nbsp;(82)</option>
+	<option class="level-1" value="780">&nbsp;&nbsp;&nbsp;Development&nbsp;&nbsp;(26)</option>
+	<option class="level-1" value="585361478">&nbsp;&nbsp;&nbsp;Education&nbsp;&nbsp;(11)</option>
+	<option class="level-1" value="1021446">&nbsp;&nbsp;&nbsp;Kid Books&nbsp;&nbsp;(2)</option>
+	<option class="level-1" value="2981867">&nbsp;&nbsp;&nbsp;Kid Food&nbsp;&nbsp;(6)</option>
+	<option class="level-1" value="1622156">&nbsp;&nbsp;&nbsp;Kid Games&nbsp;&nbsp;(13)</option>
+	<option class="level-1" value="555396881">&nbsp;&nbsp;&nbsp;Kid Movies &amp; TV&nbsp;&nbsp;(2)</option>
+	<option class="level-1" value="585361530">&nbsp;&nbsp;&nbsp;Kid Sports&nbsp;&nbsp;(14)</option>
+	<option class="level-1" value="10434768">&nbsp;&nbsp;&nbsp;Kid Tech&nbsp;&nbsp;(1)</option>
+	<option class="level-1" value="760547">&nbsp;&nbsp;&nbsp;Kid Toys&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="122666">People You Should Know&nbsp;&nbsp;(37)</option>
+	<option class="level-0" value="585361491">Podcast&nbsp;&nbsp;(31)</option>
+	<option class="level-0" value="197">Relationships&nbsp;&nbsp;(35)</option>
+	<option class="level-1" value="15723">&nbsp;&nbsp;&nbsp;Buddies&nbsp;&nbsp;(3)</option>
+	<option class="level-1" value="19887">&nbsp;&nbsp;&nbsp;Spouse&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="309">Reviews&nbsp;&nbsp;(32)</option>
+	<option class="level-0" value="585361546">Sponsored&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="67">Sports&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="79262">Stuff to Do&nbsp;&nbsp;(98)</option>
+	<option class="level-1" value="4186854">&nbsp;&nbsp;&nbsp;Activities For Your Kids&nbsp;&nbsp;(50)</option>
+	<option class="level-1" value="211867">&nbsp;&nbsp;&nbsp;Local Activities&nbsp;&nbsp;(41)</option>
+	<option class="level-0" value="370915033">Tales of Fatherhood&nbsp;&nbsp;(53)</option>
+	<option class="level-0" value="585361497">What&#8217;s New with Reno Dads&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1262921">Work &amp; Money&nbsp;&nbsp;(12)</option>
+	<option class="level-1" value="371498">&nbsp;&nbsp;&nbsp;Smart Money&nbsp;&nbsp;(7)</option>
+	<option class="level-1" value="131">&nbsp;&nbsp;&nbsp;Work&nbsp;&nbsp;(2)</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</aside>					</div><!-- .grid-container -->
+				</div><!-- #secondary -->
+
+			
+			<div class="footer-bottom-info has-social-menu">
+				<div class="social-links"><ul id="menu-social-links-menu" class="social-links-items"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="https://www.facebook.com/renodads/"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="http://twitter.com/renodads"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-1997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1997"><a href="https://www.instagram.com/renodads/"><span class="screen-reader-text">Instagram</span></a></li>
+</ul></div>
+				<div class="site-info">
+					
+					
+									</div><!-- .site-info -->
+			</div><!-- .footer-bottom-info -->
+
+		</footer><!-- #colophon -->
+
+	</div><!-- .site-inner -->
+</div><!-- #page -->
+
+        <div id="mailchimp-top-bar" class="mctb mctb-sticky mctb-position-top mctb-small">
+            <!-- Mailchimp Top Bar v1.5.5 - https://wordpress.org/plugins/mailchimp-top-bar/ -->
+            <div class="mctb-bar" >
+                <form method="post" >
+					                    <label class="mctb-label" for="mailchimp-top-bar__email">Yes, I want to be a more awesome parent...</label>
+					                    <input type="email" name="email"
+                           placeholder="Your email address"
+                           class="mctb-email" required id="mailchimp-top-bar__email"/>
+                    <input type="text" name="email_confirm" placeholder="Confirm your email" value="" autocomplete="off"
+                           tabindex="-1" class="mctb-email-confirm"/>
+					                    <input type="submit" value="Send Me Rad Dad Stuff"
+                           class="mctb-button"/>
+					                    <input type="hidden" name="_mctb" value="1"/>
+                    <input type="hidden" name="_mctb_no_js" value="1"/>
+                    <input type="hidden" name="_mctb_timestamp" value="1679401846"/>
+                </form>
+				            </div>
+            <!-- / Mailchimp Top Bar -->
+        </div>
+				<script type="text/javascript">
+		var infiniteScroll = {"settings":{"id":"posts","ajaxurl":"https:\/\/renodadsblog.com\/?infinity=scrolling","type":"click","wrapper":false,"wrapper_class":"infinite-wrap","footer":"primary","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"24.12.21","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":1,"history":{"host":"renodadsblog.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[46],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":12,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"update_menu_item_cache":false,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"query_before":"2023-03-21 05:30:46","last_post_date":"2021-12-24 20:30:00","body_class":"infinite-scroll","loading_text":"Loading new page","stats":"blog=113765163&host=renodadsblog.com&v=ext&j=1:12.0-a.5&x_pagetype=infinite-click-jetpack"}};
+		</script>
+		<!--  -->
+<style>
+			.sd-social-icon .sd-content ul li a.sd-button>span {
+				margin-left: 0;
+			}
+		</style><script defer id="bilmur" data-provider="wordpress.com" data-service="atomic"  src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202312"></script>
+		<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		<script type='text/javascript' src='https://renodadsblog.com/wp-content/plugins/jetpack/_inc/build/infinite-scroll/infinity.min.js?ver=12.0-a.5-is5.0.1' id='the-neverending-homepage-js'></script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script type='text/javascript' id='jetpack-carousel-js-extra'>
+/* <![CDATA[ */
+var jetpackSwiperLibraryPath = {"url":"https:\/\/renodadsblog.com\/wp-content\/plugins\/jetpack\/_inc\/build\/carousel\/swiper-bundle.min.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/renodadsblog.com\/wp-admin\/admin-ajax.php","nonce":"5c1920efd8","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/renodadsblog.com\/wp-login.php?redirect_to=https%3A%2F%2Frenodadsblog.com%2F2022%2F12%2F14%2Freno-dads-guide-to-youth-baseball-and-softball-in-reno-2%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=12.0-a.5' id='jetpack-carousel-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/themes/dyad/js/navigation.js?ver=20120206' id='dyad-navigation-js'></script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/themes/dyad/js/skip-link-focus-fix.js?ver=20130115' id='dyad-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/masonry.min.js' id='masonry-js'></script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/themes/dyad/js/global.js?ver=20151204' id='dyad-global-js'></script>
+<script type='text/javascript' id='mailchimp-top-bar-js-extra'>
+/* <![CDATA[ */
+var mctb = {"cookieLength":"365","icons":{"hide":"&#x25B2;","show":"&#x25BC;"},"position":"top","state":{"submitted":false,"success":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://renodadsblog.com/wp-content/plugins/mailchimp-top-bar/assets/js/script.js?ver=1.5.5' id='mailchimp-top-bar-js'></script>
+		<script type="text/javascript">
+			(function() {
+				var extend = function(out) {
+					out = out || {};
+
+					for (var i = 1; i < arguments.length; i++) {
+						if (!arguments[i])
+						continue;
+
+						for (var key in arguments[i]) {
+						if (arguments[i].hasOwnProperty(key))
+							out[key] = arguments[i][key];
+						}
+					}
+
+					return out;
+				};
+				extend( window.infiniteScroll.settings.scripts, ["regenerator-runtime","wp-polyfill","jetpack-block-contact-form","media-video-jwt-bridge","tiled-gallery","jquery-core","jquery-migrate","jquery","the-neverending-homepage","jetpack-photon","jetpack-carousel","imagesloaded","dyad-navigation","dyad-skip-link-focus-fix","masonry","dyad-global","mailchimp-top-bar"] );
+				extend( window.infiniteScroll.settings.styles, ["formidable","the-neverending-homepage","wp-block-library","mediaelement","wp-mediaelement","classic-theme-styles","global-styles","wpcom-text-widget-styles","crp-style-rounded-thumbs","jetpack_likes","jetpack-carousel-swiper-css","jetpack-carousel","tiled-gallery","genericons","dyad-fonts","dyad-style","dyad-wpcom","mailchimp-top-bar","jetpack_css"] );
+			})();
+		</script>
+				<span id="infinite-aria" aria-live="assertive"></span>
+			<script src='https://stats.wp.com/e-202312.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'113765163',post:'0',tz:'-7',srv:'renodadsblog.com',hp:'atomic',ac:'2',amp:'0',j:'1:12.0-a.5'} ]);
+		_stq.push([ 'clickTrackerInit', '113765163', '0' ]);
+	</script>
+</body>
+</html>
+<!--
+	generated in 0.293 seconds
+	82245 bytes batcached for 300 seconds
+-->
